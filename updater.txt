@@ -3,9 +3,9 @@
     {
  "version":"12.62",
  "title":"Update Disponible",
- "description":"RewhasApp Oficial V10.65
+ "description":"RewhasApp Oficial V11.65
 
-Base: 2.23.21.88
+Base: 2.23.22.88
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
