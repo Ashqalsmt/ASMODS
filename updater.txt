@@ -1,11 +1,11 @@
-{
+774 952 378 7{
   "fnmods_update": [
     {
  "version":"11.62",
  "title":"Update Disponible",
- "description":"RewhasApp Oficial V9.65
+ "description":"RewhasApp Oficial V11.65
 
-Base: 2.23.21.88
+Base: 2.23.22.88
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
